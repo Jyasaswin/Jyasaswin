@@ -88,7 +88,6 @@ I'm a student passionate about **Artificial Intelligence and Machine Learning**,
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyasaswin&layout=compact&theme=dark&bg_color=0a0e27&title_color=4fc3f7&text_color=c0c8e0&border_color=142850&hide_border=false" width="48%"/>
 
-<img src="https://ghchart.rshah.org/4fc3f7/Jyasaswin" width="98%"/>
 </div>
 
 
