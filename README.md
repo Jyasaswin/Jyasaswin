@@ -81,12 +81,12 @@ I'm a student passionate about **Artificial Intelligence and Machine Learning**,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jyasaswin&show_icons=true&theme=dark&bg_color=0a0e27&title_color=4fc3f7&icon_color=8ab4f8&text_color=c0c8e0&border_color=142850&hide_border=false" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Jyasaswin&show_icons=true&theme=dark&bg_color=0a0e27&title_color=4fc3f7&icon_color=8ab4f8&text_color=c0c8e0&border_color=142850&hide_border=false" width="48%"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyasaswin&theme=dark&background=0a0e27&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=c0c8e0&dates=8ab4f8&border=142850" width="48%"/>
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyasaswin&layout=compact&theme=dark&bg_color=0a0e27&title_color=4fc3f7&text_color=c0c8e0&border_color=142850&hide_border=false" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyasaswin&layout=compact&theme=dark&bg_color=0a0e27&title_color=4fc3f7&text_color=c0c8e0&border_color=142850&hide_border=false" width="48%"/> -->
 
 </div>
 
